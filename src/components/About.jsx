@@ -81,7 +81,7 @@ const About = () => {
     </div>
     <div className="md:col-span-4">
         <div className="noisy">
-            <img src="/images/abt3.png" alt="grid-img-3" />
+            <img src="/images/abt4.png" alt="grid-img-4" />
         </div>
     </div>
 
